@@ -2,7 +2,7 @@
 
 def greet_user(name):
     # TODO: return a greeting string "Hello, <name>!"
-    pass
+    return "Hello, "+ name
 
 if __name__ == "__main__":
     name = input("Enter your name: ")
