@@ -1,0 +1,12 @@
+{
+    "tests": [
+      {
+        "name": "Test greet_user function",
+        "run": "pytest test_main.py",
+        "input": "",
+        "output": "",
+        "points": 10
+      }
+    ]
+  }
+  
